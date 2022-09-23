@@ -15,5 +15,5 @@ This is a tech blog. When the user opens the website. The can view their homepag
 ## Questions
 
   If you have any further questions, 
-   - You can email me at: kami.gillespie@gmail.com
+   - You can email me at: gillespiekamary@gmail.com
    - You can find my GitHub at: [kamarygillespie4](https://github.com/kamarygillespie4)
